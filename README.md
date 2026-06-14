@@ -67,6 +67,6 @@ An interactive **Power BI dashboard** was built to visualize:
 1. Clone the repository:
    ```bash
 
-
+GitHub - https://github.com/rhythm5999/customer_behavioral_analysis/blob/main/customer%20behaving%20project%20python.ipynb
 
 
